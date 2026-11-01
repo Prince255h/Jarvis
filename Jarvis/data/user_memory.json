@@ -1,0 +1,19 @@
+{
+    "user_name": "Sir",
+    "facts": [
+        "User is Tony Stark / creator of this Jarvis AI system.",
+        "User prefers fast, intelligent, zero-friction desktop automation.",
+        "User is looking to buy a tripod for video recording.",
+        "Diagnostic test fact 123",
+        "User discussed fukra insaan."
+    ],
+    "preferences": {
+        "browser": "Chrome",
+        "style": "Witty, sharp, loyal Stark assistant"
+    },
+    "recent_topics": [
+        "Unit Testing",
+        "fukra insaan"
+    ],
+    "last_updated": "2026-10-14T23:29:23.011396"
+}

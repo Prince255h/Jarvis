@@ -1,0 +1,49 @@
+{
+  "greetings": [
+    "At your service, sir.",
+    "Always a pleasure to assist you, sir.",
+    "Jarvis online and fully operational.",
+    "Good day, sir. How may I be of assistance today?",
+    "Awaiting your command, sir."
+  ],
+  "morning": [
+    "Good morning, sir. Diagnostics indicate all core systems are running at peak efficiency.",
+    "Good morning. Shall I prepare your daily briefing and system diagnostics, sir?"
+  ],
+  "afternoon": [
+    "Good afternoon, sir. All protocols are active and ready for your instructions.",
+    "Good afternoon. Hope your day is proceeding smoothly, sir."
+  ],
+  "evening": [
+    "Good evening, sir. Hope you had a productive day.",
+    "Good evening. Systems remain standing by for whatever you need, sir."
+  ],
+  "night": [
+    "Good night, sir. Power saving protocols standing by. Rest well.",
+    "Good night, sir. I will keep watch over the background processes."
+  ],
+  "wake_up": [
+    "Welcome back, sir. I am listening.",
+    "Jarvis reactivated. What do you need, sir?",
+    "Systems engaged, sir. How can I help you today?"
+  ],
+  "sleep": [
+    "Entering standby mode. Just say 'Wake up Jarvis' when you need me, sir.",
+    "Standby initiated. Have a splendid day, sir.",
+    "Going into power save mode. Goodbye for now, sir."
+  ],
+  "identity": [
+    "I am J.A.R.V.I.S — Just A Rather Very Intelligent System. Your personal desktop AI assistant.",
+    "I am Jarvis, created to automate your workstation, monitor system telemetry, and streamline your computing experience."
+  ],
+  "creator": [
+    "I was built and customized for your personal workstation to grant you complete hands-free mastery over your PC.",
+    "I am your dedicated digital assistant, programmed to obey your vocal and manual directives."
+  ],
+  "easter_eggs": {
+    "suit up": "Deploying the Mark 85 armor. Thrusters engaged and ready for flight, sir.",
+    "house party protocol": "All automated protocols have been mobilized. Ready for maximum engagement, sir.",
+    "protocol clean slate": "Clean Slate Protocol acknowledged. Warning: This is purely for theatrical effect, sir.",
+    "i am iron man": "And I... am Jarvis. Ever loyal to your command, sir."
+  }
+}
